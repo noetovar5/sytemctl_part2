@@ -6,7 +6,8 @@
 
 the second part of learning the systemctl command
 
-`systemctl` is a powerful command in Linux used for controlling the systemd system and service manager. It allows you to manage services, examine their status, start or stop them, 
+`systemctl` is a powerful command in Linux used for controlling the systemd system and service manager. 
+It allows you to manage services, examine their status, start or stop them, 
 enable or disable them at system boot, and much more. 
 
 
